@@ -49,7 +49,7 @@ def update_fire_intensity_per_pixel(i, j):
     if i +1 >= fireWidth:
         return
 
-    desconto = 1
+    desconto = random.randrange(1, 4)
     intensidade_pixel_debaixo = fire_pixels_list[i + 1][j]
     nova_intensidade = intensidade_pixel_debaixo - desconto
 
