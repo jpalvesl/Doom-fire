@@ -10,7 +10,7 @@ n = 3 #Quantidade de vezes que o display eh maior que a estrutura de dados
 Width = n*fireWidth
 Height = n*fireHeight
 
-dif = 30
+dif = n*10
 
 pygame.init()
 fundo = pygame.display.set_mode((Width, Height))
