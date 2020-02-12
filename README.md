@@ -25,4 +25,4 @@ cd src
   ```
 
 ## Código em execução
-<img src="">
+<img src="assets/fire.png">
