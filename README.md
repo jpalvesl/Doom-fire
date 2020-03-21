@@ -1,11 +1,11 @@
 # Doom-fire
 Repositório implementando o fogo do doom.
-Baseado no [video](https://www.youtube.com/watch?v=fxm8cadCqbs) do Felipe Deschamps, porém usando pygame para renderização.
+Baseado no [video](https://www.youtube.com/watch?v=fxm8cadCqbs) do Felipe Deschamps, porém usando pygame para renderização dos pixels em tela e usando matriz no lugar da lista.
 
 ## 🚀 Inicio rápidos
 1. Use o comando a seguir para isso
 ```shell
-git clone https://github.com/jpalvesl/Selection-sort.git
+git clone https://github.com/jpalvesl/Doom-fire.git
 ```
 
 3. **Instale a biblioteca com o seguinte comando**  
@@ -16,7 +16,7 @@ git clone https://github.com/jpalvesl/Selection-sort.git
 2. **Navegue até a pasta com os arquivos fonte**  
 
 ```shell
-cd src
+cd Doom-fire/src
 ```
 
 3. **Execute o comando** 
